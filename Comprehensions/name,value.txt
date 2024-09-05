@@ -1,0 +1,8 @@
+Alice = 25
+Bob = Engineer
+Charlie = 30
+Diana = Artist
+Evelyn = 22
+Frank = Doctor
+Grace = 28
+Henry = Teacher
